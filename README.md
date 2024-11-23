@@ -21,7 +21,7 @@ This project marks the beginning of my journey into learning the **Go programmin
 ### Running the Calculator
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/gaurikarkhile001/Calculator-Golang.git
    ```
 2. Navigate to the project directory:
    ```bash

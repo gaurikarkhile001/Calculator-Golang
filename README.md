@@ -25,11 +25,11 @@ This project marks the beginning of my journey into learning the **Go programmin
    ```
 2. Navigate to the project directory:
    ```bash
-   cd go-calculator
+   cd Calculator
    ```
 3. Run the calculator:
    ```bash
-   go run calculator.go
+   go run main.go
    ```
 
 ### Example
